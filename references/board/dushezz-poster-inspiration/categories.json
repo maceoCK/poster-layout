@@ -1,0 +1,58 @@
+{
+  "t01-figure-x-type-depth": {
+    "name": "Figure x type, depth interlock",
+    "pins": [435, 436, 470, 433, 434, 482, 122, 37, 78, 79, 76, 115, 158, 164, 87, 132, 384, 411, 403, 244]
+  },
+  "t02-letter-as-window": {
+    "name": "Letter as window (image inside the letterform)",
+    "pins": [443, 444, 437, 438, 440, 429, 17, 338, 441, 258, 471]
+  },
+  "t03-letter-fused-with-object": {
+    "name": "Letterform fused with an object, or objects spell the word",
+    "pins": [422, 335, 404, 139, 66, 497, 218, 219, 474, 463, 340, 351]
+  },
+  "t04-type-replaces-subject": {
+    "name": "Type replaces, cuts or covers part of the subject",
+    "pins": [421, 430, 116, 278, 272, 431, 366, 385, 375, 361]
+  },
+  "t05-sliced-shifted-mirrored": {
+    "name": "Subject sliced, shifted, mirrored or refracted",
+    "pins": [450, 505, 425, 446, 494, 507, 180, 181, 423, 348]
+  },
+  "t06-visual-pun": {
+    "name": "Visual pun or object metaphor (one image, one idea)",
+    "pins": [509, 232, 263, 458, 464, 240, 451, 341, 476, 479, 486, 253, 410, 259, 418, 295]
+  },
+  "t07-staged-set": {
+    "name": "Staged set: real objects photographed on flat color fields",
+    "pins": [92, 93, 247, 1, 9, 60, 346, 18, 274, 408, 271, 241]
+  },
+  "t08-cutout-collage": {
+    "name": "Black and white cutout collage with flat primary geometry",
+    "pins": [34, 86, 149, 150, 156, 201, 203, 204, 200, 29, 51, 162, 154, 183, 69, 43, 186, 363]
+  },
+  "t09-mega-type": {
+    "name": "Mega type: the type is the image",
+    "pins": [38, 50, 52, 188, 74, 137, 138, 246, 128, 129, 20, 49, 28, 254, 243, 177]
+  },
+  "t10-repetition": {
+    "name": "Repetition until it becomes texture",
+    "pins": [190, 227, 225, 189, 500, 265, 11, 2, 176, 395, 57, 73]
+  },
+  "t11-illustration-flat": {
+    "name": "Illustration-led, flat saturated color",
+    "pins": [12, 245, 123, 419, 165, 67, 83, 412, 413, 270, 457, 33, 420, 171, 481]
+  },
+  "t12-negative-space": {
+    "name": "Negative space and silhouette",
+    "pins": [466, 5, 216, 217, 8, 213, 126, 107, 367, 368, 210, 260]
+  },
+  "t13-scattered-type": {
+    "name": "Letters spread through space as structure",
+    "pins": [63, 62, 108, 249, 262, 182, 276, 374, 508, 415, 478, 376]
+  },
+  "t14-duotone": {
+    "name": "Duotone and single-ink photo on a color field",
+    "pins": [41, 68, 184, 95, 88, 256, 15, 226]
+  }
+}
